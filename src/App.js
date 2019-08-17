@@ -1,9 +1,10 @@
 import React from "react";
 import "./App.css";
-import Questions from "./components/Questions";
+//import Questions from "./components/Questions";
+import Lifecycle from "./components/Lifecycle";
 
 function App() {
-  return <Questions />;
+  return <Lifecycle />;
 }
 
 export default App;
